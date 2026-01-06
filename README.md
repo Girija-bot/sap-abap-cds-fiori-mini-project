@@ -1,5 +1,5 @@
 # sap-abap-cds-fiori-mini-project
-# SAP S/4HANA ABAP Cloud Mini Project
+# SAP S/4HANA ABAP CDS and Fioro Mini Project
 
 ## Description
 This academic mini project demonstrates the architecture of a modern SAP S/4HANA
